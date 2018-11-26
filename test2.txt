@@ -1,1 +1,2 @@
 I am now trying stash. I will keet this file into stash
+I have commited this file with the first line, now adding this line to check how stash works
