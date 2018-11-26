@@ -1,10 +1,10 @@
 # TestRepo
 
-Modifying this file for comparing with last commit without staging.
-Ok, $git difftool command showed the compartision between this modified file and last commited file.
+*Modifying this file for comparing with last commit without staging.
+*Ok, $git difftool command showed the comparison between this modified file and last commited file.
 Now let me stage it and compare it again.
-After staging using $git difftool command is not showing any output.
-When I wrote the line above, and then run $git difftool then the comparison showed the result between staged version and the modified version. 
+*After staging using $git difftool command is not showing any output.
+*When I wrote the line above, and then run $git difftool then the comparison showed the result between staged version and the modified version. 
 Now let me stage it.
-We can compare to commit using their first 8 characters of their commit hash 
-
+*We can compare to commit using their first 8 characters of their commit hash 
+*Now let me add another file and commit this line change in this README.md file and add some content into test1.txt file. Let me see what happens
