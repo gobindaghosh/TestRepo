@@ -10,4 +10,9 @@ We can compare to commit using their first 8 characters of their commit hash
 Now let me add another file and commit this line change in this README.md file and add some content into test1.txt file. Let me see what happens.
 after staging I am writing this line
 only the content of the readme file is showing, then test1.txt now lets change the command into $ git difftool test1.txt and voila!! It is now comparing between staged and modified version
+When we need to compare with staged and commited file, we need to provide the commited id by which we want to compare the modified file.
+$ git difftool d13dc90->First 7 characters of commit id got using  $git log
+
+
+
 
