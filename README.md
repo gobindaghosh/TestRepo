@@ -12,6 +12,7 @@ after staging I am writing this line
 only the content of the readme file is showing, then test1.txt now lets change the command into $ git difftool test1.txt and voila!! It is now comparing between staged and modified version
 When we need to compare with staged and commited file, we need to provide the commited id by which we want to compare the modified file.
 $ git difftool d13dc90->First 7 characters of commit id got using  $git log
+I have now created 2 branches branch1 and branch2 and I am adding this line by checking out to branch 1
 
 
 
